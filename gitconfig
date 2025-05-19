@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = felix.racine@kactus.com
+	email = @users.noreply.github.com
 	name = Felix Racine
